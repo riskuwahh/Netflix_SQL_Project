@@ -216,7 +216,11 @@ GROUP BY category;
 
 ## Conclusion:
 -The SQL queries used in this analysis provide a comprehensive overview of Netflix’s content library, revealing interesting patterns and trends.
+
 -The platform offers a diverse range of genres, with significant international content, particularly from countries like the US and India.
+
 -Netflix's content rating system reflects its effort to cater to various audience demographics, with an emphasis on mature audiences.
+
 -The platform is continuously updating its library, ensuring fresh content is available for viewers, particularly in recent years.
+
 -This project highlights the value of SQL in extracting meaningful insights from large datasets and can be expanded further to explore even deeper aspects of the Netflix content library.
