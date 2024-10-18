@@ -2,7 +2,7 @@
 
 ![Netflix_Logo](https://github.com/riskuwahh/Netflix_SQL_Project/blob/main/Netflix_Logo_CMYK.png)
 
-THE DATA FOR THIS PROJECT IS SOURCES FROM KAGGLE DATASET 
+THE DATA FOR THIS PROJECT IS SOURCED FROM KAGGLE DATASET 
 -**DATASET LINK:**[Movies_Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
 
 
