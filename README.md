@@ -199,3 +199,24 @@ SELECT category, COUNT(*) AS total_content
 FROM new_table
 GROUP BY category;
 ```
+
+## Findings and Conclusion
+### Findings:
+-Distribution of Movies and TV Shows: The dataset contains both movies and TV shows, and by counting their occurrences, we observe a higher number of movies compared to TV shows in the Netflix library.
+
+-Most Common Ratings: For both movies and TV shows, specific ratings like TV-MA and PG-13 are more frequent, indicating that Netflix has a substantial amount of content for mature audiences as well as teens.
+
+-Content Distribution by Country: The top five countries with the most content on Netflix include United States, India, United Kingdom, Canada, and France, showcasing a diverse range of international content.
+
+-Longest Movie: By analyzing the duration, we identified the longest movie in the Netflix library, providing insight into how Netflix caters to various user preferences, including long-form content.
+
+-Content Added in Recent Years: Netflix continues to grow its library significantly, with a substantial portion of content being added in the last five years, indicating Netflix's aggressive expansion strategy.
+
+-Content Genres: A breakdown of genres reveals that Netflix has a broad range of content, from documentaries and dramas to thrillers and comedies, appealing to a wide variety of viewer interests.
+
+## Conclusion:
+-The SQL queries used in this analysis provide a comprehensive overview of Netflix’s content library, revealing interesting patterns and trends.
+-The platform offers a diverse range of genres, with significant international content, particularly from countries like the US and India.
+-Netflix's content rating system reflects its effort to cater to various audience demographics, with an emphasis on mature audiences.
+-The platform is continuously updating its library, ensuring fresh content is available for viewers, particularly in recent years.
+-This project highlights the value of SQL in extracting meaningful insights from large datasets and can be expanded further to explore even deeper aspects of the Netflix content library.
